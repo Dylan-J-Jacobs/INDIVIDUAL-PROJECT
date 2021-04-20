@@ -1,24 +1,40 @@
 # Checken Nuggets
 
-## Smaller Chicken Nuggets
+## Chicken Nugget Subtitle #1
+## -=-=-=-=-=-=-=-=-=-=-=-
 
-### Smaller Checken Nuggets
+### A Random quote subtitle:
+### -=-=-=-=-=-=-=-=-=--=-=-=-
 
-#### Smaller Checken Nuggets
+1. "Your scientists were so preoccupied with wether or not they could, they didn't stop to think if they should."
 
-##### Smallest Checken Nuggets
+#### -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#### Types of Chicken Nuggets Subtitle #3
+#### -=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-
+
+1. Ball Shaped
+2. Boot Shaped
+3. Bell Shaped
+4. Bone Shaped
+
+* Normal Chicken Nuggets
+* Spicy Chicken Nuggets
+* Tofu Nuggets
 
 *Italic Text*
 
 **Bold Text**
 
-1. tofu nuggets
-2. chicken.
+#### -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+#### What are Chicken Nuggets?
+#### ---------------------------------------
 
-* Bean 
-* Vegitarian
+- [Click Here for a Definition](https://en.wikipedia.org/wiki/Chicken_nugget)
 
-[ChickenNuggets](https://en.wikipedia.org/wiki/Chicken_nugget)
+
+##### Chicken Nugget Subtitle #4
+
+
 
 
 
